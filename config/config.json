@@ -18,6 +18,8 @@
     "password": "eBDF55F62E5dCEc4FaDdc41Hh655G2c-",
     "database": "railway",
     "host": "monorail.proxy.rlwy.net",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "port": "24146"
+
   }
 }
